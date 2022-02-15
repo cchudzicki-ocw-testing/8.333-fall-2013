@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 'Statistical Mechanics I: Exam Review 2 Solution'
-type: OCWFile
 uid: 0e4f5e9a-a73a-4e04-a5b0-cdc60d41fc2a
 ---

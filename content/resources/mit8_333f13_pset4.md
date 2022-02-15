@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Statistical Mechanics I: Problem Set 4'
-type: OCWFile
 uid: a022055a-3f74-5bae-ad92-dac267255b63
 ---
