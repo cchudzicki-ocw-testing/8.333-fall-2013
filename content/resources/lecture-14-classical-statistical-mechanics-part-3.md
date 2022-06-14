@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This is the third of three lectures on Classical Statistical Mechanics.
 
 **Instructor:** Mehran Kardar
+

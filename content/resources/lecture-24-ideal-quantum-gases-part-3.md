@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This is the third of five lectures on Ideal Quantum Gases.
 
 **Instructor:** Mehran Kardar
+

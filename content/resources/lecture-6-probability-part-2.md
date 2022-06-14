@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This is the second of two lectures on Probability.
 
 **Instructor:** Mehran Kardar
+
