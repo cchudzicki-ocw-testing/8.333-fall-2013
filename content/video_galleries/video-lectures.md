@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section includes twenty six lecture videos recorded on the MIT campus.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
